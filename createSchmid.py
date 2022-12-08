@@ -11,7 +11,7 @@ def createSchimid(slipSystemType):
     hex_prismatic = 0
     hex_pyramidal_1 = 0
     hex_pyramidal_2 = 0
-    ac = 1  # a/c ratio
+    ac = 0.6288  # a/c ratio
     
     if slipSystemType == "fcc":
         fcc=1
@@ -20,7 +20,7 @@ def createSchimid(slipSystemType):
         hex_basal = 1
         hex_prismatic = 1
         hex_pyramidal_1 = 1
-        hex_pyramidal_2 = 1
+        hex_pyramidal_2 = 0
 
     # Define number of slip systems and planes
     if fcc:
