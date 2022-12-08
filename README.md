@@ -11,6 +11,13 @@ This repository contains a Jupyter Notebook implementation of the crystal plasti
 - Use the appropriate material properties in the "Material Properties" cell.
 - Supply the right hardness rule. A sample file with voce-kocks hardness rule is provided. 
 
+Please address any questions/commments to sagar.bhatt0904@gmail.com
+
 ### Acknowledgement
 
 This material is based upon work supported by the National Science Foundation under Grant No. CMMI-1729336.
+
+### Citing
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7412821.svg)](https://doi.org/10.5281/zenodo.7412821)
+
+Sagar Bhatt and Antoinette Maniatty, “Crystal Plasticity Model for Modeling Deformation Caused by Phase Transformation”. Zenodo, Dec. 08, 2022. doi: 10.5281/zenodo.7412821.
