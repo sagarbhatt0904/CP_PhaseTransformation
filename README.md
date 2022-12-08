@@ -2,7 +2,7 @@
 
 ## Material Point Integrator
 
-This repository contains a Jupyter Notebook implementation of the crystal plasticity model developed to model deformation caused by phase transformation. The Jupyter Notebook describes a material point integrator which can be plugged into a finite element framework to compute streses at each integration point. The finite element formulation can then be used to solve for the deformation at element level and for the mesh.
+This repository contains a Jupyter Notebook implementation of the crystal plasticity model developed to model deformation caused by phase transformation. The Jupyter Notebook describes a material point integrator which can be plugged into a finite element framework to compute stresses at an integration point. The finite element framework can then be used to solve for the deformation at element level and for the mesh.
 
 
 ### Things to note before using the code:
